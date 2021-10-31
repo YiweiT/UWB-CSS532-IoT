@@ -1,4 +1,4 @@
-# UWB-CSS532-IoT
+# UWB-CSS532-AWS-IoT 
 In this assignment, you need to create an AWS account, install AWS SDK onto your laptop, and implement a virtual IoT system using AWS and your laptop. The system shall support the following features (you may want to implement them step by step).
 
 You are required to use **Python** as the programming language.
